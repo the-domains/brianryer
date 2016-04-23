@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Brian Ryer - Writer]]></title>
         <description><![CDATA[Brian Ryer - Writer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brianryer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 18:51:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 23:21:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brianryer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Post is Best Post]]></title>
             <description><![CDATA[<article><h1>First Post is Best Post</h1><p>It's been quite a long time since we've had a first post. The last was with SquareSpace about 3 years ago. SquareSpace is a great platform. It was ahead of its time when it debuted about 8 years ago and it is still great.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38dce2f7-dadf-450d-b7d9-e12b7ce710a6.jpg"></article>]]></description>
-            <link>undefinedfirst-post-is-best-post/index.html</link>
+            <link>https://thegrid.ai/brianryer/first-post-is-best-post/index.html</link>
             <guid isPermaLink="false">ffa8d382-2871-4b52-b3fb-5595ee13399c</guid>
             <pubDate>Sat, 23 Apr 2016 18:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[These folks are making art and the can't even vote yet. ]]></title>
+            <description><![CDATA[<article><h1>These folks are making art and the can't even vote yet. </h1><p>Illustoria is a magazine for creative kids & their grownups. We celebrate visual storytelling, makers and DIY culture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c3adfde25f6bca2e4d8f07b00104d0a3d252206.jpg"></article>]]></description>
+            <link>http://www.illustoria.com/made-by-you-1/</link>
+            <guid isPermaLink="false">92fb6e9d-0286-4125-a206-f45d23474935</guid>
+            <pubDate>Sat, 23 Apr 2016 23:21:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
